@@ -1,44 +1,50 @@
 # Hi, I'm Tiru Venkatesh 👋
 
 ## 🚀 About Me
-I am a Full Stack Developer and AI/ML Enthusiast.
-Currently contributing to Open Source and preparing for Google Summer of Code 2026.
 
-I enjoy building web applications, AI tools, and backend systems.
+Full Stack Developer and AI/ML Enthusiast.
+Preparing for Google Summer of Code 2026 and actively contributing to Open Source.
 
----
+I build web applications, backend systems, and AI tools.
 
 ## 🛠 Tech Stack
-**Languages:** Python, JavaScript, TypeScript  
-**Frameworks:** Django, React, Node.js  
-**Databases:** MongoDB  
-**AI/ML:** OpenCV, TensorFlow  
-**Tools:** Git, GitHub, REST APIs  
 
----
+* Python
+* JavaScript / TypeScript
+* Django
+* React
+* Node.js
+* MongoDB
+* OpenCV
+* TensorFlow
+* Git & GitHub
 
 ## 📌 Featured Projects
+
 ### 1. Gynex AI
+
 AI-based application with frontend and backend architecture.
 
 ### 2. Fruit Detector
-Computer Vision project for detecting fruits using Python and OpenCV.
+
+Computer Vision project using Python and OpenCV.
 
 ### 3. CodeStream
+
 Live streaming platform for programmers.
 
 ### 4. Image to Excel AI
+
 Tool to convert images into Excel data using AI.
 
----
+## 🌱 Open Source
 
-## 🌱 Currently Working On
-- Open Source Contributions
-- Django Development
-- Backend Systems
-- Preparing for Google Summer of Code 2026
-
----
+* Contributing to Open Source Projects
+* Django Development
+* Backend Systems
+* Preparing for Google Summer of Code 2026
 
 ## 📫 Contact
-GitHub: https://github.com/tiru-venkatesh
+
+* GitHub: https://github.com/tiru-venkatesh
+* Email: tiruvenkatesh123@gmail.com
