@@ -3,7 +3,6 @@
 ## 🚀 About Me
 
 Full Stack Developer and AI/ML Enthusiast.
-Preparing for Google Summer of Code 2026 and actively contributing to Open Source.
 
 I build web applications, backend systems, and AI tools.
 
