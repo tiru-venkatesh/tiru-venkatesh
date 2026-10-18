@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-labelledby="t d">
+  <title id="t">Tiru Venkatesh</title>
+  <desc id="d">Founder of OPAI, AI Engineer and Full-Stack Developer</desc>
+  <defs>
+    <linearGradient id="tv-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050B18"/>
+      <stop offset="0.6" stop-color="#0A1530">
+        <animate attributeName="stop-color" values="#0A1530;#12285A;#0A1530" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#12285A">
+        <animate attributeName="stop-color" values="#12285A;#1D4ED8;#12285A" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <pattern id="tv-grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#60A5FA" stroke-opacity="0.12"/>
+      <animateTransform attributeName="patternTransform" type="translate" from="0 0" to="40 40" dur="4s" repeatCount="indefinite"/>
+    </pattern>
+    <linearGradient id="tv-shimmer" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0">
+      <stop offset="0" stop-color="#F1F7FF"/><stop offset="0.5" stop-color="#60A5FA"/><stop offset="1" stop-color="#F1F7FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-300 0" to="900 0" dur="3.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="tv-sweep" x1="0" x2="1">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0"/><stop offset="0.5" stop-color="#BFDBFE" stop-opacity="0.28"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="tv-line" x1="0" x2="1">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0"/><stop offset="0.5" stop-color="#BFDBFE"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="tv-blur" x="-20%" y="-300%" width="140%" height="700%"><feGaussianBlur stdDeviation="5"/></filter>
+  </defs>
+
+  <rect width="1200" height="340" fill="url(#tv-bg)"/>
+  <rect width="1200" height="340" fill="url(#tv-grid)"/>
+
+  <!-- light sweep across the banner -->
+  <rect y="0" width="260" height="340" fill="url(#tv-sweep)" transform="skewX(-20)">
+    <animate attributeName="x" values="-400;1400" dur="5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- rotating orbits -->
+  <g transform="translate(980 170)" fill="none" stroke="#60A5FA">
+    <circle r="120" stroke-opacity="0.35"/>
+    <circle r="4" fill="#BFDBFE" stroke="none">
+      <animate attributeName="r" values="4;7;4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+      <ellipse rx="165" ry="55" transform="rotate(-18)" stroke-opacity="0.3"/>
+      <circle cx="165" cy="0" r="6" fill="#BFDBFE" stroke="none" transform="rotate(-18)"/>
+    </g>
+    <g>
+      <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="9s" repeatCount="indefinite"/>
+      <circle cx="120" cy="0" r="5" fill="#60A5FA" stroke="none"/>
+    </g>
+  </g>
+
+  <!-- floating particles -->
+  <g fill="#BFDBFE">
+    <circle cx="640" cy="300" r="2"><animate attributeName="cy" values="300;60;300" dur="7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="7s" repeatCount="indefinite"/></circle>
+    <circle cx="720" cy="280" r="3"><animate attributeName="cy" values="280;40;280" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="9s" repeatCount="indefinite"/></circle>
+    <circle cx="560" cy="310" r="2"><animate attributeName="cy" values="310;80;310" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="6s" repeatCount="indefinite"/></circle>
+    <circle cx="820" cy="300" r="2"><animate attributeName="cy" values="300;50;300" dur="8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="8s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- path that draws, then erases, forever -->
+  <path d="M60 290 C 260 290, 300 258, 460 258 S 700 290, 860 252 S 1040 276, 1140 262" fill="none" stroke="#60A5FA" stroke-width="2" stroke-linecap="round" stroke-dasharray="1300">
+    <animate attributeName="stroke-dashoffset" values="1300;0;0;-1300" keyTimes="0;0.45;0.75;1" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <!-- text -->
+  <text x="60" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700" fill="url(#tv-shimmer)" letter-spacing="1">Tiru Venkatesh</text>
+  <text x="62" y="200" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="#BFDBFE">Founder of OPAI · AI Engineer · Full-Stack Developer</text>
+  <text x="62" y="232" font-family="Verdana, Arial, sans-serif" font-size="15" fill="#60A5FA">Building ideas. Shipping impact. Learning in public.</text>
+
+  <!-- glowing underline -->
+  <rect x="62" y="166" width="420" height="4" rx="2" fill="url(#tv-line)" filter="url(#tv-blur)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="62" y="166" width="420" height="2" rx="1" fill="url(#tv-line)">
+    <animate attributeName="width" values="120;420;420;120" keyTimes="0;0.4;0.8;1" dur="5s" repeatCount="indefinite"/>
+  </rect>
+</svg>

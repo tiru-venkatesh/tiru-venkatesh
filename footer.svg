@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 100" width="1200" height="100" role="img" aria-label="Build. Learn. Ship. Repeat.">
+  <defs>
+    <linearGradient id="tvf-bg" x1="0" x2="1">
+      <stop offset="0" stop-color="#050B18"/><stop offset="0.5" stop-color="#12285A"/><stop offset="1" stop-color="#050B18"/>
+    </linearGradient>
+    <linearGradient id="tvf-shimmer" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="300" y2="0">
+      <stop offset="0" stop-color="#F1F7FF"/><stop offset="0.5" stop-color="#60A5FA"/><stop offset="1" stop-color="#F1F7FF"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="300 0" to="900 0" dur="3.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="tvf-line" x1="0" x2="1">
+      <stop offset="0" stop-color="#60A5FA" stop-opacity="0"/><stop offset="0.5" stop-color="#BFDBFE"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="100" fill="url(#tvf-bg)"/>
+  <rect x="200" y="18" width="800" height="2" fill="url(#tvf-line)">
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="3s" repeatCount="indefinite"/>
+  </rect>
+  <circle cy="19" r="4" fill="#BFDBFE">
+    <animate attributeName="cx" values="200;1000;200" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <text x="600" y="60" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="url(#tvf-shimmer)">Build. Learn. Ship. Repeat.</text>
+  <text x="600" y="84" text-anchor="middle" font-family="Verdana, Arial, sans-serif" font-size="12" fill="#60A5FA">Building from India</text>
+</svg>

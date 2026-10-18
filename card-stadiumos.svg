@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 140" width="580" height="140" role="img" aria-label="StadiumOS: Tournament operations platform with organizer, team, and fan roles.">
+<defs>
+<linearGradient id="c-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0A1530"/><stop offset="1" stop-color="#12285A"/></linearGradient>
+<linearGradient id="c-sh" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="160" y2="0"><stop offset="0" stop-color="#F1F7FF"/><stop offset="0.5" stop-color="#60A5FA"/><stop offset="1" stop-color="#F1F7FF"/><animateTransform attributeName="gradientTransform" type="translate" from="-160 0" to="420 0" dur="3.5s" repeatCount="indefinite"/></linearGradient>
+<linearGradient id="c-sw" x1="0" x2="1"><stop offset="0" stop-color="#60A5FA" stop-opacity="0"/><stop offset="0.5" stop-color="#BFDBFE" stop-opacity="0.18"/><stop offset="1" stop-color="#60A5FA" stop-opacity="0"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="578" height="138" rx="12" fill="url(#c-bg)" stroke="#1D4ED8" stroke-opacity="0.45"/>
+<rect y="0" width="120" height="140" fill="url(#c-sw)" transform="skewX(-18)"><animate attributeName="x" values="-200;700" dur="5s" repeatCount="indefinite"/></rect>
+<rect x="1" y="1" width="578" height="138" rx="12" fill="none" stroke="#60A5FA" stroke-width="2" stroke-dasharray="90 1170" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="0" to="-1260" dur="4s" repeatCount="indefinite"/></rect>
+<circle cx="28" cy="34" r="5" fill="#60A5FA"><animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/></circle>
+<text x="42" y="42" font-family="Georgia, 'Times New Roman', serif" font-size="24" font-weight="700" fill="url(#c-sh)">StadiumOS</text>
+<text x="28" y="78" font-family="Verdana, Arial, sans-serif" font-size="14" fill="#BFDBFE">Tournament operations platform with organizer, team,</text><text x="28" y="100" font-family="Verdana, Arial, sans-serif" font-size="14" fill="#BFDBFE">and fan roles.</text>
+</svg>
