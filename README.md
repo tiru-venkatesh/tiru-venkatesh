@@ -34,7 +34,7 @@ I build web apps, backend systems, and AI-powered products: LLMs, agents, comput
 <td width="50%"><a href="https://github.com/tiru-venkatesh/civic-iq"><img src="card-civiciq.svg" alt="Civic-IQ: complaint analysis, prioritization, duplicate detection, and routing" width="100%"></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/tiru-venkatesh?tab=repositories&q=ibvap"><img src="card-ibvap.svg" alt="IBVAP: border video analytics" width="100%"></a></td>
+<td><a href="https://github.com/tiru-venkatesh/IBVAP"><img src="card-ibvap.svg" alt="IBVAP: border video analytics" width="100%"></a></td>
 <td><a href="https://github.com/tiru-venkatesh?tab=repositories&q=reflect"><img src="card-reflectai.svg" alt="ReflectAI: decision-intelligence prototype" width="100%"></a></td>
 </tr>
 <tr>
