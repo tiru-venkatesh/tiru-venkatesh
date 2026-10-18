@@ -8,14 +8,7 @@
 
 <img src="sec-about.svg" alt="About me" width="100%">
 
-I build web apps, backend systems, and AI-powered products: LLMs, agents, computer vision, and the engineering that turns ideas into useful software.
-
-- Building **OPAI**, an operating-agent project exploring AI assistance, tools, and workflows
-- Learning LLMs, RAG, AI agents, and Generative AI by shipping
-- Building end to end: frontend, backend, APIs, cloud
-- Sharing the journey as **Tiru Builds** · **@lockintiru**
-
-> Understand the problem, build a working version, test it, learn from what breaks, improve it.
+<img src="about.svg" alt="I build web apps, backend systems, and AI-powered products: LLMs, agents, computer vision, and the engineering that turns ideas into useful software. Building OPAI, learning LLMs, RAG, AI agents and Generative AI, building end to end, and sharing the journey as Tiru Builds and @lockintiru." width="100%">
 
 <img src="sec-stack.svg" alt="Tech stack" width="100%">
 
