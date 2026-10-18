@@ -44,13 +44,11 @@
 
 <img src="sec-recognition.svg" alt="Recognition" width="100%">
 
-- Google Cloud Gen AI Academy APAC Hackathon: Civic-IQ team reported Top 101 (Rank 91)
-- PromptWars Virtual Challenge 3: reported among the Top 400
-- Google Cloud Asia Pacific: Best of Next '26 credential
+<img src="recognition.svg" alt="Google Cloud Gen AI Academy APAC Hackathon: Civic-IQ team reported Top 101 (Rank 91). PromptWars Virtual Challenge 3: reported among the Top 400. Google Cloud Asia Pacific: Best of Next '26 credential." width="100%">
 
 <img src="sec-opensource.svg" alt="Open source" width="100%">
 
-Learning from real codebases: Python and backend systems, AI/ML tooling, docs and tests, developer experience.
+<img src="opensource.svg" alt="Learning from real codebases: Python and backend systems, AI/ML tooling, docs and tests, developer experience." width="100%">
 
 <img src="sec-activity.svg" alt="Contribution activity" width="100%">
 

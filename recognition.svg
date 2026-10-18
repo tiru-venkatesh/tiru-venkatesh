@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" role="img" aria-label="Recognition: Google Cloud Gen AI Academy APAC Hackathon, Civic-IQ team reported Top 101 (Rank 91). PromptWars Virtual Challenge 3, reported among the Top 400. Google Cloud Asia Pacific, Best of Next '26 credential.">
+<defs>
+<linearGradient id="r-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B18"/><stop offset="1" stop-color="#0A1530"/></linearGradient>
+<linearGradient id="r-sh" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0"><stop offset="0" stop-color="#F1F7FF"/><stop offset="0.5" stop-color="#60A5FA"/><stop offset="1" stop-color="#F1F7FF"/><animateTransform attributeName="gradientTransform" type="translate" from="-260 0" to="1200 0" dur="4.5s" repeatCount="indefinite"/></linearGradient>
+</defs>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.050;0.110;0.93;1" dur="14s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-30 0;-30 0;0 0;0 0;-30 0" keyTimes="0;0.050;0.110;0.93;1" dur="14s" repeatCount="indefinite"/>
+<rect x="2" y="14" width="1196" height="72" rx="12" fill="url(#r-bg)" stroke="#1D4ED8" stroke-opacity="0.5"/>
+<rect x="2" y="14" width="1196" height="72" rx="12" fill="none" stroke="#60A5FA" stroke-width="2" stroke-dasharray="70 2400" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="0" to="-2470" dur="8s" repeatCount="indefinite"/></rect>
+<circle cx="46" cy="50" r="22" fill="#12285A" stroke="#60A5FA"><animate attributeName="r" values="22;25;22" dur="2.6s" begin="0.0s" repeatCount="indefinite"/></circle>
+<path d="M0,-11 L3.2,-3.6 11,-3.4 4.9,1.5 7,9 0,4.7 -7,9 -4.9,1.5 -11,-3.4 -3.2,-3.6Z" transform="translate(46 50)" fill="#BFDBFE"><animateTransform attributeName="transform" type="rotate" additive="sum" values="-12;12;-12" dur="3s" begin="0.0s" repeatCount="indefinite"/></path>
+<text x="90" y="45" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" fill="url(#r-sh)">Google Cloud Gen AI Academy APAC Hackathon</text>
+<text x="90" y="69" font-family="Verdana, Arial, sans-serif" font-size="14.5" fill="#BFDBFE">Civic-IQ team reported Top 101 (Rank 91)</text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.150;0.210;0.93;1" dur="14s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-30 0;-30 0;0 0;0 0;-30 0" keyTimes="0;0.150;0.210;0.93;1" dur="14s" repeatCount="indefinite"/>
+<rect x="2" y="98" width="1196" height="72" rx="12" fill="url(#r-bg)" stroke="#1D4ED8" stroke-opacity="0.5"/>
+<rect x="2" y="98" width="1196" height="72" rx="12" fill="none" stroke="#60A5FA" stroke-width="2" stroke-dasharray="70 2400" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="-500" to="-2970" dur="8s" repeatCount="indefinite"/></rect>
+<circle cx="46" cy="134" r="22" fill="#12285A" stroke="#60A5FA"><animate attributeName="r" values="22;25;22" dur="2.6s" begin="0.4s" repeatCount="indefinite"/></circle>
+<path d="M0,-11 L3.2,-3.6 11,-3.4 4.9,1.5 7,9 0,4.7 -7,9 -4.9,1.5 -11,-3.4 -3.2,-3.6Z" transform="translate(46 134)" fill="#BFDBFE"><animateTransform attributeName="transform" type="rotate" additive="sum" values="-12;12;-12" dur="3s" begin="0.4s" repeatCount="indefinite"/></path>
+<text x="90" y="129" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" fill="url(#r-sh)">PromptWars Virtual Challenge 3</text>
+<text x="90" y="153" font-family="Verdana, Arial, sans-serif" font-size="14.5" fill="#BFDBFE">Reported among the Top 400</text></g>
+<g><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.250;0.310;0.93;1" dur="14s" repeatCount="indefinite"/><animateTransform attributeName="transform" type="translate" values="-30 0;-30 0;0 0;0 0;-30 0" keyTimes="0;0.250;0.310;0.93;1" dur="14s" repeatCount="indefinite"/>
+<rect x="2" y="182" width="1196" height="72" rx="12" fill="url(#r-bg)" stroke="#1D4ED8" stroke-opacity="0.5"/>
+<rect x="2" y="182" width="1196" height="72" rx="12" fill="none" stroke="#60A5FA" stroke-width="2" stroke-dasharray="70 2400" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="-1000" to="-3470" dur="8s" repeatCount="indefinite"/></rect>
+<circle cx="46" cy="218" r="22" fill="#12285A" stroke="#60A5FA"><animate attributeName="r" values="22;25;22" dur="2.6s" begin="0.8s" repeatCount="indefinite"/></circle>
+<path d="M0,-11 L3.2,-3.6 11,-3.4 4.9,1.5 7,9 0,4.7 -7,9 -4.9,1.5 -11,-3.4 -3.2,-3.6Z" transform="translate(46 218)" fill="#BFDBFE"><animateTransform attributeName="transform" type="rotate" additive="sum" values="-12;12;-12" dur="3s" begin="0.8s" repeatCount="indefinite"/></path>
+<text x="90" y="213" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" fill="url(#r-sh)">Google Cloud Asia Pacific</text>
+<text x="90" y="237" font-family="Verdana, Arial, sans-serif" font-size="14.5" fill="#BFDBFE">Best of Next &#x27;26 credential</text></g>
+</svg>

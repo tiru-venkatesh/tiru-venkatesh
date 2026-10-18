@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 90" width="1200" height="90" role="img" aria-label="Learning from real codebases: Python and backend systems, AI/ML tooling, docs and tests, developer experience.">
+<defs>
+<linearGradient id="o-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#050B18"/><stop offset="1" stop-color="#0A1530"/></linearGradient>
+<linearGradient id="o-sh" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="260" y2="0"><stop offset="0" stop-color="#BFDBFE"/><stop offset="0.5" stop-color="#F1F7FF"/><stop offset="1" stop-color="#BFDBFE"/><animateTransform attributeName="gradientTransform" type="translate" from="-260 0" to="1300 0" dur="5s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="o-c"><rect x="0" y="0" height="90" width="0"><animate attributeName="width" values="0;0;1130;1130;0" keyTimes="0;0.02;0.5;0.92;1" dur="12s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="1198" height="88" rx="12" fill="url(#o-bg)" stroke="#1D4ED8" stroke-opacity="0.5"/>
+<rect x="1" y="1" width="1198" height="88" rx="12" fill="none" stroke="#60A5FA" stroke-width="2" stroke-dasharray="90 2400" stroke-linecap="round"><animate attributeName="stroke-dashoffset" from="0" to="-2490" dur="7s" repeatCount="indefinite"/></rect>
+<text x="24" y="54" font-family="Verdana, Arial, sans-serif" font-size="18" fill="#60A5FA">&gt;</text>
+<g transform="translate(50 0)" clip-path="url(#o-c)"><text x="0" y="54" font-family="Georgia, 'Times New Roman', serif" font-size="20" fill="url(#o-sh)">Learning from real codebases: Python and backend systems, AI/ML tooling, docs and tests, developer experience.</text></g>
+<rect y="36" width="3" height="26" fill="#BFDBFE"><animate attributeName="x" values="50;50;1020;1020;50" keyTimes="0;0.02;0.5;0.92;1" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;0;1" dur="0.9s" repeatCount="indefinite"/></rect>
+</svg>
