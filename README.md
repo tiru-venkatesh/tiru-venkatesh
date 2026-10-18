@@ -59,4 +59,14 @@ I build web apps, backend systems, and AI-powered products: LLMs, agents, comput
 
 Learning from real codebases: Python and backend systems, AI/ML tooling, docs and tests, developer experience.
 
+<img src="sec-activity.svg" alt="Contribution activity" width="100%">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tiru-venkatesh/tiru-venkatesh/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tiru-venkatesh/tiru-venkatesh/output/snake-light.svg">
+  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/tiru-venkatesh/tiru-venkatesh/output/snake-dark.svg" width="100%">
+</picture>
+
+<sub>Generated from my real GitHub contributions and refreshed every 12 hours.</sub>
+
 <img src="footer.svg" alt="Build. Learn. Ship. Repeat." width="100%">
