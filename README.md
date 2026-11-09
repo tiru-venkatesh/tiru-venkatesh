@@ -60,12 +60,14 @@
 
 <sub>Generated from my real GitHub contributions and refreshed every 12 hours.</sub>
 
+<img src="sec-dragon.svg" alt="Evolving dragon" width="100%">
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/main/assets/users/tiru-venkatesh/dragon.gif" width="650" alt="My Evolving Dragon">
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/main/assets/users/tiru-venkatesh/dragon.gif" width="650" alt="My evolving dragon, which grows with my real GitHub activity">
   <br>
-  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/main/assets/users/tiru-venkatesh/dragon-status.svg" width="650" alt="Drago Status Card">
+  <img src="https://raw.githubusercontent.com/Deepak-Kambala/Drago/main/assets/users/tiru-venkatesh/dragon-status.svg" width="650" alt="Drago status card showing level, XP and streak">
 </p>
 
-<sub>A dragon that evolves from my real GitHub activity, powered by <a href="https://github.com/Deepak-Kambala/Drago">Drago</a>.</sub>
+<sub>Evolves from my real GitHub activity, refreshed every 15 minutes. Powered by <a href="https://github.com/Deepak-Kambala/Drago">Drago</a>.</sub>
 
 <img src="footer.svg" alt="Build. Learn. Ship. Repeat." width="100%">
